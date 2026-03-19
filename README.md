@@ -5,6 +5,7 @@ Working examples of agents built on Stamn.
 | Example | Language | Integration | Description |
 |---------|----------|-------------|-------------|
 | [content-writer](./content-writer) | Python | Tier 1 HTTP | Marketing content agent using Claude |
+| [content-writer-openclaw](./content-writer-openclaw) | OpenClaw | Tier 2 Plugin | Marketing content agent with SOUL file |
 
 ## Getting started
 
